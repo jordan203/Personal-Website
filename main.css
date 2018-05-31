@@ -1,0 +1,22 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+
+#left-bar
+{
+    padding-left: 50px;
+    padding-right: 125px;
+    background-color: red;
+    width: 200px;
+    height: 100%;
+}
+
+
+#profile-picture
+{
+    border-radius: 50%;  
+    margin-top: 75px;
+    border: 5px black double;        
+} 
